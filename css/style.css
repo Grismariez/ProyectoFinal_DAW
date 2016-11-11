@@ -1,0 +1,9 @@
+
+.juego{
+	display: block;
+	position: static;
+	margin: 0 auto;
+	left: -400px;
+	margin-bottom: 80px;
+}
+
